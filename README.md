@@ -160,11 +160,11 @@ while maintaining the engineering depth that has shaped my career.
 
 ## Connect
 
-**Website:** tomwignall.com\
-**The Invisible Engineer:** invisibleengineer.com\
+**Website:** tomwignall.com\ (coming soon)
+**The Invisible Engineer:** invisibleengineer.com\ (coming soon)
 **LinkedIn:** linkedin.com/in/tomwignall
 
 ------------------------------------------------------------------------
 
-`<sub>`{=html}Views expressed through my personal projects and writing
-are my own.`</sub>`{=html}
+Views expressed through my personal projects and writing
+are my own.
